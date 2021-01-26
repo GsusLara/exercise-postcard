@@ -1,0 +1,84 @@
+#caja{
+position: relative;
+margin-left: auto;
+margin-right: auto;
+width: 600px;
+height: 400px;
+outline: auto #0d9cd4e3;
+border-radius: 1%;
+}
+header{
+    width: 600px; 
+    height: 100px;
+}
+#titulo{
+    font-family: 'Fraunces', serif;
+    color: slategrey;
+    margin-left: 10px;
+    text-align: left;
+    font-size: medium;
+    position: absolute;
+}
+#logo{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+#img{
+    width: 100px;
+    height: 100px;
+}
+section{
+    width: 600px;
+    height: 150px;
+}
+#izq{
+    width: 280px;
+    height: 150px; 
+    left: 10px;
+    position: absolute;
+    font-family: 'Fraunces', serif;
+    font-size: 18px;
+    text-align: center justify;
+}
+#der{
+    width: 280px;
+    height: 150px; 
+    right: 10px;
+    position: absolute;
+}
+#name{
+    margin-top: 10px;
+    font-family: 'Fraunces', serif;
+    border: 0;
+    outline: none;
+    border-bottom: 1px solid rgba(138, 180, 219, 0.651);
+}
+#mail{
+    margin-top: 10%;
+    font-family: 'Fraunces', serif;
+    border: 0;
+    outline: none;
+    border-bottom: 1px solid rgba(138, 180, 219, 0.651);
+}
+#text{
+    margin-top: 10%;
+    font-family: 'Fraunces', serif;
+    border: 0;
+    outline: none;
+    border-bottom: 1px solid rgba(138, 180, 219, 0.651);
+}
+#down{
+    width: 280px;
+    height: 50px;
+    margin-left: 10px;
+    font-family: 'Fraunces', serif;
+    font-size: 18px;
+    text-align: center justify;
+}
+#bot{
+    margin: 5% auto auto 40%;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Fraunces', serif;
+}
